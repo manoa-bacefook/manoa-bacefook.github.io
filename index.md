@@ -42,3 +42,5 @@ This section provides a walkthrough of the Bowfolios user interface and its capa
 ### Find Roommates Page
 * Filter roommates based on keyboard input
 * On click, it should link to the chosen rommate's profile & post
+
+## Team
