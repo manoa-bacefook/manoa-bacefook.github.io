@@ -12,29 +12,33 @@ Bacefook is a central hub where people in the UH Manoa dorms will be able to fin
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## User Guide
-
 This section provides a walkthrough of the Bowfolios user interface and its capabilities.
 
 ### Landing Page
-
-The landing page is presented to users when they visit the top-level URL to the site.
-
+* The landing page is presented to users when they visit the top-level URL to the site.
 
 ### Main Hub
+* Roommate's posts
+  * Post feed
+    * Write comments
+    * Leave a like/comment    
 
+### NavBar
+* Access user profile
+* Other links (Home, "Search for a Roommate")
 
-### NavBar/Footer
-
+### Footer
+* Terms/Privacy
+* About
+* Webapp settings
 
 ### User Profile Page
-
+* User's posts
+* Edit user settings
 
 ### Admin Page
-
+* List of posts
 
 ### Find Roommates Page
-
-
-
-
-### Filter page
+* Filter roommates based on keyboard input
+* On click, it should link to the chosen rommate's profile & post
