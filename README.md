@@ -1,4 +1,4 @@
-Roomniverse is a Social Media platform where users can also connect with others and request for roommates.
+Roomniverse is a Social Media platform where users can connect with others and request for roommates.
 
 [GitHub Repository](https://github.com/roomniverse/roomniverse.github.io)
 
@@ -13,4 +13,4 @@ Roomniverse is a Social Media platform where users can also connect with others 
 
 [Project Overview](overview.md)
 
-[Milestone 1](https://github.com/roomniverse/roomniverse.github.io/projects/3)
+[Milestone 1](https://github.com/roomniverse/roomniverse-webapp/projects/3)
