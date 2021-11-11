@@ -1,3 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
 header {
   width: 100%;
   margin-top: 0;
@@ -7,5 +11,3 @@ header {
 body {
   padding: 0;
 }
-
-@import "{{ site.theme }}";
