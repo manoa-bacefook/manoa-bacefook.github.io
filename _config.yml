@@ -1,4 +1,4 @@
 #Site Settings
 baseurl: ""
-theme-landing: theme-landing
+theme-landing: theme-landing.html
 markdown: kramdown
