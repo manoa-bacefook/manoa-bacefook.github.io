@@ -4,6 +4,9 @@ baseurl: ""
 google_analytics:
 show_downloads: true
 
-theme-landing: theme-landing.html
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
 
 markdown: kramdown
