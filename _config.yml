@@ -1,4 +1,5 @@
 #Site Settings
+title: Roomniverse
 url: "https://roomniverse.github.io"
 baseurl: ""
 google_analytics:
