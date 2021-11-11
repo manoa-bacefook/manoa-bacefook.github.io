@@ -1,5 +1,6 @@
 #Site Settings
 title: Rommniverse
+url: "https://roomniverse.github.io"
 baseurl: ""
 theme-landing: theme-landing
 markdown: kramdown
