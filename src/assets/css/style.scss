@@ -1,0 +1,11 @@
+header {
+  width: 100%;
+  margin-top: 0;
+  align-content: center;
+}
+
+body {
+  padding: 0;
+}
+
+@import "{{ site.theme }}";
