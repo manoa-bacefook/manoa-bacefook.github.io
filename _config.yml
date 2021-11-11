@@ -5,9 +5,6 @@ baseurl: ""
 google_analytics:
 show_downloads: false
 
-theme: jekyll-theme-cayman
-
-gems:
-  - jekyll-mentions
+theme: jekyll-theme-dinky
 
 markdown: kramdown
