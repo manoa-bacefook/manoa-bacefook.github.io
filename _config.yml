@@ -1,5 +1,4 @@
 #Site Settings
-title: Rommniverse
 baseurl: ""
 theme-landing: theme-landing
 markdown: kramdown
