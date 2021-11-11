@@ -19,9 +19,9 @@ This section provides a walkthrough of the Bowfolios user interface and its capa
 
 ### Main Hub
 * Roommate's posts
-  * Post feed
-    * Write comments
-    * Leave a like/comment    
+    * Post feed
+        * Write comments
+        * Leave a like/comment
 
 ### NavBar
 * Access user profile
@@ -42,5 +42,3 @@ This section provides a walkthrough of the Bowfolios user interface and its capa
 ### Find Roommates Page
 * Filter roommates based on keyboard input
 * On click, it should link to the chosen rommate's profile & post
-
-## Team
