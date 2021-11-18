@@ -2,6 +2,7 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Deployment](#deployment)
 
 ## Overview
 Roomniverse is a central hub where people in the UH Manoa dorms will be able to find and collaborate with new roommates. It illustrates various technologies useful to ICS software engineering students, including:
@@ -42,3 +43,6 @@ This section provides a walkthrough of the Bowfolios user interface and its capa
 ### Find Roommates Page
 * Filter roommates based on keyboard input
 * On click, it should link to the chosen rommate's profile & post
+
+## Deployment
+Here is a [link](http://137.184.234.250/) to our current website.
