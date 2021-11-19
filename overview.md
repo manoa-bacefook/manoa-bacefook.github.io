@@ -31,8 +31,8 @@ This section provides a walkthrough of the Roomniverse user interface and its ca
 * Access user profile
 * Other links (Home, "Search for a Roommate")
 
-<img src="doc/rv-footer.PNG">
 ### Footer
+<img src="doc/rv-footer.PNG">
 * Terms/Privacy
 * About
 * Webapp settings
