@@ -14,3 +14,5 @@ Roomniverse is a Social Media platform where users can connect with others and r
 [Project Overview](overview.md)
 
 [Milestone 1](https://github.com/roomniverse/roomniverse-webapp/projects/2)
+
+[Milestone 2](https://github.com/roomniverse/roomniverse-webapp/projects/3)
