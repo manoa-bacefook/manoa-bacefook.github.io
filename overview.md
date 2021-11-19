@@ -17,9 +17,17 @@ This section provides a walkthrough of the Roomniverse user interface and its ca
 
 ### Landing Page
 <img src="doc/rv-landing-page.PNG">
-* The landing page is presented to users when they visit the top-level URL to the site.
+* The landing page is presented to users when they visit the top-level URL to the site, explaining the features of Roomniverse.
+
+### Sign-up/Log-in Page
+Roomniverse provides an option to create an account to become part of the Roomniverse community.
+<img src="doc/rv-signup-page.PNG">
+
+Once registered, users can log into Roomniverse through log-in page, which grants the users to access the key features of Roomniverse.
+<img src="doc/rv-login-page.PNG">
 
 ### Main Hub
+Once logged in, users will be greeted with main hub page, where users can interact with other users by creating a post to share about themselves to others.
 <img src="doc/rv-hub-page.PNG">
 * Roommate's posts
     * Post feed
@@ -29,7 +37,7 @@ This section provides a walkthrough of the Roomniverse user interface and its ca
 ### NavBar
 <img src="doc/rv-navbar.PNG">
 * Access user profile
-* Other links (Home, "Search for a Roommate")
+* Other links (Home, "Find Roommate")
 
 ### Footer
 <img src="doc/rv-footer.PNG">
@@ -39,6 +47,7 @@ This section provides a walkthrough of the Roomniverse user interface and its ca
 
 ### User Profile Page
 <img src="doc/rv-userprofile-page.PNG">
+User profile page presents features of:
 * User's posts
 * Edit user settings
 
@@ -47,6 +56,7 @@ This section provides a walkthrough of the Roomniverse user interface and its ca
 
 ### Find Roommates Page
 <img src="doc/rv-findroommate-page.PNG">
+Find Roommates Page allows the user to explore and find about other Roomniverse users through search bars + advanced sorting feature. 
 * Filter roommates based on keyboard input
 * On click, it should link to the chosen rommate's profile & post
 
