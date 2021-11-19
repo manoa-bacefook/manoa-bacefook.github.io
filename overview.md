@@ -16,27 +16,29 @@ Roomniverse is a central hub where people in the UH Manoa dorms will be able to 
 This section provides a walkthrough of the Roomniverse user interface and its capabilities.
 
 ### Landing Page
-<img src="doc/roomniverse-landing-page.PNG">
+<img src="doc/rv-landing-page.PNG">
 * The landing page is presented to users when they visit the top-level URL to the site.
 
 ### Main Hub
-<img src="doc/roomniverse-hub-page.PNG">
+<img src="doc/rv-hub-page.PNG">
 * Roommate's posts
     * Post feed
         * Write comments
         * Leave a like/comment
 
 ### NavBar
+<img src="doc/rv-navbar.PNG">
 * Access user profile
 * Other links (Home, "Search for a Roommate")
 
+<img src="doc/rv-footer.PNG">
 ### Footer
 * Terms/Privacy
 * About
 * Webapp settings
 
 ### User Profile Page
-<img src="doc/roomniverse-userprofile-page.PNG">
+<img src="doc/rv-userprofile-page.PNG">
 * User's posts
 * Edit user settings
 
@@ -44,7 +46,7 @@ This section provides a walkthrough of the Roomniverse user interface and its ca
 * List of posts
 
 ### Find Roommates Page
-<img src="doc/roomniverse-findroommate-page.PNG">
+<img src="doc/rv-findroommate-page.PNG">
 * Filter roommates based on keyboard input
 * On click, it should link to the chosen rommate's profile & post
 
