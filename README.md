@@ -1,6 +1,6 @@
 Roomniverse is a Social Media platform where users can connect with others and request for roommates.
 
-[GitHub Repository](https://github.com/roomniverse/roomniverse.github.io)
+[GitHub Repository](https://github.com/roomniverse)
 
 ## Contributors:
 - [Tracy Bui](https://tbui00.github.io)
