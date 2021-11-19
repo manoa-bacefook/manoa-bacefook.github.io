@@ -28,7 +28,7 @@ Once registered, users can log into Roomniverse through log-in page, which grant
 
 ### Main Hub
 Once logged in, users will be greeted with main hub page, where users can interact with other users by creating a post to share about themselves to others.
-<img src="doc/rv-hub-page.PNG">
+<img src="doc/roomniverse-hub-page.png">
 * Roommate's posts
     * Post feed
         * Write comments
