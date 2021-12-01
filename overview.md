@@ -37,7 +37,7 @@ Once logged in, users will be greeted with main hub page, where users can intera
         * Leave a like/comment
 
 ### Create a New Post
-<img src="doc/rv-addpost-page.PNG">
+<img src="doc/rv-addpost-page.png">
 User has the option to create and submit a new post into the main hub.
 
 ### NavBar
