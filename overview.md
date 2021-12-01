@@ -139,6 +139,4 @@ The goal of Milestone 2 was to implement the data models to function within the 
 
 Milestone 2 was managed using [Roomniverse GitHub Project Board M1](https://github.com/roomniverse/roomniverse-webapp/projects/3):
 
-![](doc/project-board-2.png)
-
 
