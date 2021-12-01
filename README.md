@@ -3,7 +3,8 @@ Roomniverse is a Social Media platform where users can connect with others and r
 [GitHub Repository](https://github.com/roomniverse)
 
 Link to the application webpage:
-https://roomniverse.xyz/
+
+<https://roomniverse.xyz/>
 
 ## Contributors:
 - [Tracy Bui](https://tbui00.github.io)
