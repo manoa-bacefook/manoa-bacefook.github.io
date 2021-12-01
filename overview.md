@@ -125,6 +125,7 @@ This result indicates that ESLint was able to run without generating any errors.
 Here is a [link](http://137.184.234.250/) to our current website.
 
 ## Continous Integration
+This section will go over the integrations that have been made through the application. 
 
 ### Milestone 1: Mockup development
 The goal of Milestone 1 was to create HTML pages that were a mock up of what the pages will look like in the application. 
