@@ -145,7 +145,9 @@ Milestone 2 was managed using [Roomniverse GitHub Project Board M2](https://gith
 
 ![](doc/project-board-2.png)
 
-### Milestone 3: Final touches
+### Milestone 3: Final touch ups
 The goal of Milestone 3 was to clean up the files of the directories, touch up on user interface features, and ensure everything is working smoothly. 
 
 Milestone 3 was managed using [Roomniverse GitHub Project Board M3](https://github.com/roomniverse/roomniverse-webapp/projects/5):
+
+![](doc/project-board-3.png)
