@@ -86,7 +86,7 @@ $ meteor npm install
 $ meteor npm run start
 ```
 
-If the system started up properly with no issues, the application will be accesible through [http://localhost:3000](http://localhost:3000).
+If the system started up properly with no issues, the application will be accessible through [http://localhost:3000](http://localhost:3000).
 
 ### Application Design
 Roomiverse was created using the basis template [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). For further information about basic application deisgn and processing with in the Roomiverse application, feel free to refer to the video guides and docuementations from these sites.
@@ -136,7 +136,7 @@ Milestone 1 was managed using [Roomniverse GitHub Project Board M1](https://gith
 ### Milestone 2: Data model development
 The goal of Milestone 2 was to implement the data models to function within the application. The data model is the set of Mongo Colelctions created and utilize the operations that manipulate the collections supporting the Roomniverse application.
 
-## Milestone 2 was managed using [Roomniverse GitHub Project Board M1](https://github.com/roomniverse/roomniverse-webapp/projects/3):
+Milestone 2 was managed using [Roomniverse GitHub Project Board M1](https://github.com/roomniverse/roomniverse-webapp/projects/3):
 
 ![](doc/project-board-2.png)
 
