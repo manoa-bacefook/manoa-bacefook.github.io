@@ -44,6 +44,12 @@ User has the option to create and submit a new post into the main hub.
 <img src="doc/roomniverse-navbar-2.png">
 * Access user profile
 * Other links (Home, "Find Roommate")
+* Search for users
+* Sign in/up/out
+
+### Search Results Page
+<img src="doc/rv-search-results.png">
+Search results filtered based on the user's search request. This page is accessible by pressing the enter key when the search bar is active and contains text.
 
 ### Footer
 <img src="doc/rv-footer.PNG">
