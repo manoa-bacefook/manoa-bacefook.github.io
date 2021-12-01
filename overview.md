@@ -137,6 +137,6 @@ Milestone 1 was managed using [Roomniverse GitHub Project Board M1](https://gith
 ### Milestone 2: Data model development
 The goal of Milestone 2 was to implement the data models to function within the application. The data model is the set of Mongo Colelctions created and utilize the operations that manipulate the collections supporting the Roomniverse application.
 
-Milestone 2 was managed using [Roomniverse GitHub Project Board M1](https://github.com/roomniverse/roomniverse-webapp/projects/3):
+Milestone 2 was managed using [Roomniverse GitHub Project Board M2](https://github.com/roomniverse/roomniverse-webapp/projects/3):
 
 ![](doc/project-board-2.png)
