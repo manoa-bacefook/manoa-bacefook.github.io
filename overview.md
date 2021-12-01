@@ -23,10 +23,10 @@ This section provides a walkthrough of the Roomniverse user interface and its ca
 
 ### Sign-up/Log-in Page
 Roomniverse provides an option to create an account to become part of the Roomniverse community.
-<img src="doc/rv-signup-page.PNG">
+<img src="doc/roomniverse-signup-page-2.png">
 
 Once registered, users can log into Roomniverse through log-in page, which grants the users to access the key features of Roomniverse.
-<img src="doc/rv-login-page.PNG">
+<img src="doc/roomniverse-signin-page-2.png">
 
 ### Main Hub
 Once logged in, users will be greeted with main hub page, where users can interact with other users by creating a post to share about themselves to others.
@@ -41,7 +41,7 @@ Once logged in, users will be greeted with main hub page, where users can intera
 User has the option to create and submit a new post into the main hub.
 
 ### NavBar
-<img src="doc/rv-navbar.PNG">
+<img src="doc/roomniverse-navbar-2.png">
 * Access user profile
 * Other links (Home, "Find Roommate")
 
@@ -65,6 +65,10 @@ User profile page presents features of:
 Find Roommates Page allows the user to explore and find about other Roomniverse users through search bars + advanced sorting feature. 
 * Filter roommates based on keyboard input
 * On click, it should link to the chosen rommate's profile & post
+
+### Add Request Page
+<img src="doc/roomniverse-add-request-page.png">
+Add  Request Page allows the user to add a request of what they are looking for in a roommate. They are able to specify the location they are looking for any further details in the description of what are their wants and needs.
 
 ## Developer Guide
 This guide will provide information to Meteor developers that would like to use this code as a basis for their own development.
