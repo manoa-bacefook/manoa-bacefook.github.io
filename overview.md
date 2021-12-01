@@ -52,7 +52,7 @@ User has the option to create and submit a new post into the main hub.
 * Webapp settings
 
 ### User Profile Page
-<img src="doc/roomniverse-userprofile-page-2.PNG">
+<img src="doc/rv-userprofile-page.PNG">
 User profile page presents features of:
 * User's posts
 * Edit user settings
@@ -61,7 +61,7 @@ User profile page presents features of:
 * List of posts
 
 ### Find Roommates Page
-<img src="doc/roomniverse-findroommate-page-2.PNG">
+<img src="doc/rv-findroommate-page.PNG">
 Find Roommates Page allows the user to explore and find about other Roomniverse users through search bars + advanced sorting feature. 
 * Filter roommates based on keyboard input
 * On click, it should link to the chosen rommate's profile & post
@@ -144,3 +144,8 @@ The goal of Milestone 2 was to implement the data models to function within the 
 Milestone 2 was managed using [Roomniverse GitHub Project Board M2](https://github.com/roomniverse/roomniverse-webapp/projects/3):
 
 ![](doc/project-board-2.png)
+
+### Milestone 3: Final touches
+The goal of Milestone 3 was to clean up the files of the directories, touch up on user interface features, and ensure everything is working smoothly. 
+
+Milestone 3 was managed using [Roomniverse GitHub Project Board M3](https://github.com/roomniverse/roomniverse-webapp/projects/5):
