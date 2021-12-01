@@ -52,7 +52,7 @@ User has the option to create and submit a new post into the main hub.
 * Webapp settings
 
 ### User Profile Page
-<img src="doc/rv-userprofile-page.PNG">
+<img src="doc/roomniverse-userprofile-page-2.PNG">
 User profile page presents features of:
 * User's posts
 * Edit user settings
@@ -61,7 +61,7 @@ User profile page presents features of:
 * List of posts
 
 ### Find Roommates Page
-<img src="doc/rv-findroommate-page.PNG">
+<img src="doc/roomniverse-findroommate-page-2.PNG">
 Find Roommates Page allows the user to explore and find about other Roomniverse users through search bars + advanced sorting feature. 
 * Filter roommates based on keyboard input
 * On click, it should link to the chosen rommate's profile & post
