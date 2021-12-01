@@ -4,6 +4,7 @@
 * [User Guide](#user-guide)
 * [Deployment](#deployment)
 * [Developer Guide](#developer-guide)
+* [Continuous Integration](#continuous-integration)
 
 ## Overview
 Roomniverse is a central hub where people in the UH Manoa dorms will be able to find and collaborate with new roommates. It illustrates various technologies useful to ICS software engineering students, including:
@@ -123,17 +124,19 @@ This result indicates that ESLint was able to run without generating any errors.
 ## Deployment
 Here is a [link](http://137.184.234.250/) to our current website.
 
-## Milestone 1: Mockup development
+## Continous Integration
+
+### Milestone 1: Mockup development
 The goal of Milestone 1 was to create HTML pages that were a mock up of what the pages will look like in the application. 
 
 Milestone 1 was managed using [Roomniverse GitHub Project Board M1](https://github.com/roomniverse/roomniverse-webapp/projects/2):
 
 ![](doc/project-board-1.png)
 
-## Milestone 2: Data model development
+### Milestone 2: Data model development
 The goal of Milestone 2 was to implement the data models to function within the application. The data model is the set of Mongo Colelctions created and utilize the operations that manipulate the collections supporting the Roomniverse application.
 
-Milestone 2 was managed using [Roomniverse GitHub Project Board M1](https://github.com/roomniverse/roomniverse-webapp/projects/3):
+## Milestone 2 was managed using [Roomniverse GitHub Project Board M1](https://github.com/roomniverse/roomniverse-webapp/projects/3):
 
 ![](doc/project-board-2.png)
 
