@@ -68,9 +68,7 @@ The search bar dynamically filters user inqueres. You can click on a user's prof
 
 ### User Profile Page
 <img src="doc/roomniverse-user-profile.png">
-User profile page presents features of:
-* User's posts
-* Edit user settings
+The User Profile Page allows the current user to see their post history and roommate request history. The User Profile Page also shows the current user's profile data and provides them with a link to edit their profile.
 
 ### Edit Profile Page
 <img src="doc/roomniverse-edit-profile.png">
