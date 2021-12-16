@@ -2,7 +2,7 @@
 title: Roomniverse
 url: "https://roomniverse.github.io"
 baseurl: ""
-google_analytics:
+google_analytics: true
 show_downloads: false
 
 theme: jekyll-theme-merlot
