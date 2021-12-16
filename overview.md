@@ -25,6 +25,9 @@ This section provides a walkthrough of the Roomniverse user interface and its ca
 Roomniverse provides an option to create an account to become part of the Roomniverse community.
 <img src="doc/roomniverse-sign-up.png">
 
+After creating a new account, the user will be redirected to the Create Profile page where more information is inputted for the user profile.
+<img src="doc/roomniverse-create-profile.png">
+
 Once registered, users can log into Roomniverse through log-in page, which grants the users to access the key features of Roomniverse.
 <img src="doc/roomniverse-signin-page-2.png">
 
