@@ -172,6 +172,7 @@ I wish the sort tabs had more functionality. "Sort by major" tab could have had 
 
 ### Feedback #3
 **1 thing I liked about Roomniverse:**
+
 I like how organized everything is and how simple it is to navigate the links and see what specifications each person wants in a roommate.
 
 **1 thing I think the team could have improved about Roomniverse:**
