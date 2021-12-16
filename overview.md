@@ -18,7 +18,7 @@ Roomniverse is a central hub where people in the UH Manoa dorms will be able to 
 This section provides a walkthrough of the Roomniverse user interface and its capabilities.
 
 ### Landing Page
-<img src="doc/roomniverse-landing-page.PNG">
+<img src="doc/roomniverse-landing-page.png">
 * The landing page is presented to users when they visit the top-level URL to the site, explaining the features of Roomniverse.
 
 ### Sign-up/Log-in Page
@@ -29,7 +29,7 @@ Once registered, users can log into Roomniverse through log-in page, which grant
 <img src="doc/roomniverse-signin-page-2.png">
 
 When you are ready to log out of your session, you will see this page. To log out, go to the Nav Bar in the top right corner where your current session is displayed, click on the button, and sign out.
-<img src="/doc/roomniverse-sign-out.png"
+<img src="/doc/roomniverse-sign-out.png">
 
 ### Main Hub
 Once logged in, users will be greeted with main hub page, where users can interact with other users by creating a post to share about themselves to others.
@@ -40,7 +40,7 @@ Once logged in, users will be greeted with main hub page, where users can intera
         * Leave a like/comment
 
 ### Create a New Post
-<img src="doc/rv-addpost-page.png">
+<img src="doc/roomniverse-new-post.png">
 User has the option to create and submit a new post into the main hub.
 
 ### NavBar
@@ -61,7 +61,7 @@ The search bar dynamically filters user inqueres. You can click on a user's prof
 * Webapp settings
 
 ### User Profile Page
-<img src="doc/roomniverse-userprofile-page-2.PNG">
+<img src="doc/roomniverse-user-profile.png">
 User profile page presents features of:
 * User's posts
 * Edit user settings
@@ -70,7 +70,7 @@ User profile page presents features of:
 * List of posts
 
 ### Find Roommates Page
-<img src="doc/roomniverse-findroommate-page-2.PNG">
+<img src="doc/roomniverse-find-roommate.png">
 Find Roommates Page allows the user to explore and find about other Roomniverse users through search bars + advanced sorting feature. 
 * Filter roommates based on keyboard input
 * On click, it should link to the chosen rommate's profile & post
