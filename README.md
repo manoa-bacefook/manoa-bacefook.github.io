@@ -20,3 +20,5 @@ Link to the application webpage: <https://roomniverse.xyz/>
 [Milestone 2](https://github.com/roomniverse/roomniverse-webapp/projects/3)
 
 [Milestone 3](https://github.com/roomniverse/roomniverse-webapp/projects/5)
+
+![ci-badge](https://github.com/roomniverse/roomniverse-webapp/workflows/ci-roomniverse-webapp/badge.svg)
