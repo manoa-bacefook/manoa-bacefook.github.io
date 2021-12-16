@@ -146,6 +146,47 @@ $
 ```
 This result indicates that ESLint was able to run without generating any errors. 
 
+## Community Feedback
+After our final deployment we surveyed members of the UH community to get feed back on Roomniverse. We asked them to list one thing they liked and one thing they thought could be improved.
+
+### Feedback #1
+#### 1 thing I liked about Roomniverse:
+Using roomniverse felt very similar to using social media platform I used previously such as Facebook, giving
+initial user friendly experience.
+
+#### 1 thing I think the team could have improved about Roomniverse:
+I think the roomniverse team could have made an improvement of adding more features on post, such as the likes
+and comments.
+
+### Feedback #2
+#### 1 thing I liked about Roomniverse:
+The find roommate section was straightfoward, along with the convenient sort tabs provided to filter requests.
+
+#### 1 thing I think the team could have improved about Roomniverse:
+I wish the sort tabs had more functionality. "Sort by major" tab could have had more major selections, rather than
+"ICS/CENG" and "Others".
+
+### Feedback #3
+#### 1 thing I liked about Roomniverse:
+I like how organized everything is and how simple it is to navigate the links and see what specifications each person wants in a roommate.
+
+#### 1 thing I think the team could have improved about Roomniverse:
+Maybe a messaging feature? To message the person you are interested in rooming with?
+
+### Feedback #4
+#### 1 thing I liked about Roomniverse:
+The search/filter function makes it easier to find roommates.
+
+#### 1 thing I think the team could have improved about Roomniverse:
+Maybe have a way to search/filter the posts on the main page. I'm not sure what the "add request" button is for, as it is not intuitive
+
+### Feedback #5
+#### 1 thing I liked about Roomniverse:
+It's very simple and straightforward in its intent. Concept is to look for potential roommates. Roomniverse creates a space for others to find preferences in who they want as a roommate (e.g. if they share the same major or graduation year)
+
+#### 1 thing I think the team could have improved about Roomniverse:
+The main page where all the posts are located felt less intuitive. On the "Find Roommate" page, the separators and filters makes it easy to understand what this page's purpose is. The main page is what I'm assuming to be a current feed page (not entirely sure though because it has activity that's related to me as a user, but also activity of others completely irrelevant to me)
+
 ## Deployment
 Here is a [link](https://roomniverse.xyz) to our current website.
 
