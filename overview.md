@@ -18,19 +18,22 @@ Roomniverse is a central hub where people in the UH Manoa dorms will be able to 
 This section provides a walkthrough of the Roomniverse user interface and its capabilities.
 
 ### Landing Page
-<img src="doc/rv-landing-page.PNG">
+<img src="doc/roomniverse-landing-page.PNG">
 * The landing page is presented to users when they visit the top-level URL to the site, explaining the features of Roomniverse.
 
 ### Sign-up/Log-in Page
 Roomniverse provides an option to create an account to become part of the Roomniverse community.
-<img src="doc/roomniverse-signup-page-2.png">
+<img src="doc/roomniverse-sign-up.png">
 
 Once registered, users can log into Roomniverse through log-in page, which grants the users to access the key features of Roomniverse.
 <img src="doc/roomniverse-signin-page-2.png">
 
+When you are ready to log out of your session, you will see this page. To log out, go to the Nav Bar in the top right corner where your current session is displayed, click on the button, and sign out.
+<img src="/doc/roomniverse-sign-out.png"
+
 ### Main Hub
 Once logged in, users will be greeted with main hub page, where users can interact with other users by creating a post to share about themselves to others.
-<img src="doc/roomniverse-hub-page.png">
+<img src="doc/roomniverse-main-hub.png">
 * Roommate's posts
     * Post feed
         * Write comments
@@ -48,8 +51,8 @@ User has the option to create and submit a new post into the main hub.
 * Sign in/up/out
 
 ### Search Results Page
-<img src="doc/rv-search-results.png">
-Search results filtered based on the user's search request. This page is accessible by pressing the enter key when the search bar is active and contains text.
+<img src="doc/roomniverse-search-results.png">
+The search bar dynamically filters user inqueres. You can click on a user's profile directly from the drop down to go to their profile page, or press enter to display all results matching the query sent.
 
 ### Footer
 <img src="doc/rv-footer.PNG">
@@ -132,7 +135,7 @@ $
 This result indicates that ESLint was able to run without generating any errors. 
 
 ## Deployment
-Here is a [link](http://137.184.234.250/) to our current website.
+Here is a [link](https://roomniverse.xyz) to our current website.
 
 ## Continuous Integration
 This section will go over the integrations that have been made through the application. 
