@@ -78,7 +78,7 @@ The Edit Profile Page is accessible through the User Profile Page or most other 
 
 ### Admin Page
 <img src="doc/roomniverse-admin-page.png">
-The Admin Page requires the admin role. It allows the admin to see all of Roomniverse's connected user, posts and roommate requests. The from the admin page, the admin has the ability to edit any user profile or request.
+Users with the Admin role can access all the posts, requests, and users to moderate the webservice. The admin has full authorization to remove or edit user posts so this role should remain confidential and mitigate potential abuse vectors
 
 ### Find Roommates Page
 <img src="doc/roomniverse-find-roommate.png">
