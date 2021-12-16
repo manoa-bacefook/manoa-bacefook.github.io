@@ -77,7 +77,8 @@ User profile page presents features of:
 The Edit Profile Page is accessible through the User Profile Page or most other places you find User Cards. Here the user can edit the details provided during the sign-up process.
 
 ### Admin Page
-* List of posts
+<img src="doc/roomniverse-admin-page.png">
+The Admin Page requires the admin role. It allows the admin to see all of Roomniverse's connected user, posts and roommate requests. The from the admin page, the admin has the ability to edit any user profile or request.
 
 ### Find Roommates Page
 <img src="doc/roomniverse-find-roommate.png">
