@@ -21,18 +21,21 @@ This section provides a walkthrough of the Roomniverse user interface and its ca
 <img src="doc/roomniverse-landing-page.png">
 * The landing page is presented to users when they visit the top-level URL to the site, explaining the features of Roomniverse.
 
-### Sign-up/Log-in Page
-Roomniverse provides an option to create an account to become part of the Roomniverse community.
+### Sign-up Page
 <img src="doc/roomniverse-sign-up.png">
+Roomniverse provides an option to create an account to become part of the Roomniverse community.
 
-After creating a new account, the user will be redirected to the Create Profile page where more information is inputted for the user profile.
+### Create Profile
 <img src="doc/roomniverse-create-profile.png">
+After creating a new account, the user will be redirected to the Create Profile page where more information is inputted for the user profile.
 
-Once registered, users can log into Roomniverse through log-in page, which grants the users to access the key features of Roomniverse.
+### Sign-in Page
 <img src="doc/roomniverse-signin-page-2.png">
+Once registered, users can log into Roomniverse through log-in page, which grants the users to access the key features of Roomniverse.
 
-When you are ready to log out of your session, you will see this page. To log out, go to the Nav Bar in the top right corner where your current session is displayed, click on the button, and sign out.
+### Sign-out Page
 <img src="/doc/roomniverse-sign-out.png">
+When you are ready to log out of your session, you will see this page. To log out, go to the Nav Bar in the top right corner where your current session is displayed, click on the button, and sign out.
 
 ### Main Hub
 Once logged in, users will be greeted with main hub page, where users can interact with other users by creating a post to share about themselves to others.
@@ -69,6 +72,10 @@ User profile page presents features of:
 * User's posts
 * Edit user settings
 
+### Edit Profile Page
+<img src="doc/roomniverse-edit-profile.png">
+The Edit Profile Page is accessible through the User Profile Page or most other places you find User Cards. Here the user can edit the details provided during the sign-up process.
+
 ### Admin Page
 * List of posts
 
@@ -81,6 +88,9 @@ Find Roommates Page allows the user to explore and find about other Roomniverse 
 ### Add Request Page
 <img src="doc/roomniverse-add-request-page.png">
 Add  Request Page allows the user to add a request of what they are looking for in a roommate. They are able to specify the location they are looking for any further details in the description of what are their wants and needs.
+
+## Not for Security
+I (Scott Vore) am studying for a degree in Security Science and performed a basic level vulnerability analysis on the Roomniverse Webapplication while studying in ICS 426 which introduces Certified Ethical Hacker techniques to harden system and network security. It was a fun, quick process where I learned the application is vulnerable to X-Frames attacks, and BREACH (Browser Reconnaissance and Exfiltration via Adaptive Compression of Hypertext) attacks when I first performed the test. X-Frames can be remediated when setting up the server setting for the webservice. Specifying that X-Frames are denied or only authorized for sameorigin usages is the best way to defend against this exploit. BREACH attacks are more complex and exploits http compression to advance access to information and remote systems. This is harder to resolve because HTTP compression happens on the server-side. HTTP compression is used to speed up network traffic, which results in decreased security.
 
 ## Developer Guide
 This guide will provide information to Meteor developers that would like to use this code as a basis for their own development.
