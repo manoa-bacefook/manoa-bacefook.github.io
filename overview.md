@@ -201,7 +201,7 @@ The main page where all the posts are located felt less intuitive. On the "Find 
 We are very happy with the community's response to Roomniverse. It's apparent that there are people that enjoy our application and care about it enough to suggest changes and improvements! Some of, if not all of the suggestions were things that we just didn't think about during the development process and we're happy that it's being pointed out to us. In the future we will look to implement these improvements so that Roomniverse can reach its full potential.
 
 ## Deployment
-Here is a [link](https://roomniverse.xyz) to our current website.
+Here is a [link](https://roomniverse.xyz)(link now inactive) to our current website.
 
 ## Continuous Integration
 This section will go over the integrations that have been made through the application. 
